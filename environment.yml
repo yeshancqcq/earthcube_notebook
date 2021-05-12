@@ -1,0 +1,14 @@
+name: earthcube_notebook
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - python=3
+  - pandas
+  - geopandas
+  - matplotlib
+  - plotly
+  - requests
+  - numpy
+  - ipython
+prefix: C:\Users\yesha\Anaconda3\envs\earthcube_notebook
